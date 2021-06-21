@@ -1,7 +1,7 @@
-##About the page
+###About the page
     congratulation page is designed to notify the fitwell app user that they have successfully created an account with the fitwell web application.
 
-##content of page
+###content of page
     1. hero image of man
     2. text1/action: Congratulations.
     Your account has been set up
