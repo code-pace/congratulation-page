@@ -1,7 +1,13 @@
-###About the page
+# Frontend pjt-40
+
+## Congratulation Page
+
+### About the page
+
     congratulation page is designed to notify the fitwell app user that they have successfully created an account with the fitwell web application.
 
-###content of page
+### content of page
+
     1. hero image of man
     2. text1/action: Congratulations.
     Your account has been set up
@@ -9,6 +15,7 @@
     3. text2/comment: Welcome as you are about to begin your fitness journey. Remember "Never Give Up"
 
 **text1/action properties**
+
     //styleName: Main Title H1 36px Bold;
     font-family: Sarabun;
     font-size: 36px;
@@ -20,6 +27,7 @@
     color: #000
 
 **text2/comment properties**
+
     //styleName: Main Title H1 72px Semibold;
     font-family: Sarabun;
     font-size: 64px;
